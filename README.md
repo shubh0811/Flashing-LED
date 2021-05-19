@@ -4,14 +4,14 @@ Hi,
 Shubh this side, I am here to give a bit of description about the project that i made. 
 
 Its a easy project to run, in it you will be able to observe the LED flashing, which means 
-LED will be glowing than for few seconds it will extinguish and than glow again. 
+LED will be glowing than for few seconds it will extinguish and then glow again. 
 
 It is the simple connection made, you can use the schematic if you wish to make 
 the project.
 
 If you wish to up-down the timing of the LED glowing and extinguishing , you need 
 to change the value of capacitor using. Like, try to increase the value once than decrease
-it , you will notice the change glowing and extinguishing in time. 
+it , you will notice the change in time while glowing and extinguishing . 
 
 
 
