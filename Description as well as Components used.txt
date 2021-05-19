@@ -23,3 +23,6 @@ it , you will notice the change glowing and extinguishing in time.
 5)Capacitor- 2.2uf
 6) Batter-9v or less may also work
 7) Few jumper wires 
+
+
+# Took help from youtube videos!
