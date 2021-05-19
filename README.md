@@ -15,8 +15,7 @@ it , you will notice the change glowing and extinguishing in time.
 
 
 
-              # COMPONENTS-USED:
-
+# COMPONENTS USED
 1)LED
 2)Transistor- BC547
 3)Transistor- BC557
