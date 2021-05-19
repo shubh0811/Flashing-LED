@@ -4,7 +4,7 @@ Hi,
 Shubh this side, I am here to give a bit of description about the project that i made. 
 
 Its a easy project to run, in it you will be able to observe the LED flashing, which means 
-LED will be glowing than for few seconds it will extinguish and then glow again. 
+LED will be glowing then for few seconds it will extinguish and then glow again. 
 
 It is the simple connection made, you can use the schematic if you wish to make 
 the project.
