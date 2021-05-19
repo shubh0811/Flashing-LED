@@ -15,7 +15,7 @@ it , you will notice the change glowing and extinguishing in time.
 
 
 
-            COMPONENTS USED:
+          #  COMPONENTS USED:
 
 1)LED
 2)Transistor- BC547
@@ -27,4 +27,4 @@ it , you will notice the change glowing and extinguishing in time.
 7) Few jumper wires 
 
 
-# Took help from youtube videos!
+ Took help from youtube videos!
